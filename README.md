@@ -21,8 +21,8 @@ May 25 :
 
 June 25 : 
 • Completed this project
-• Uploaded the R file with the detailed S&P 500 Stock Market Analysis and Prediction report. I used ARIMA models to train the data, and the error is 
-• Uploaded the .ipynb file. I used deep learning method to train the data, and the error is 
+• Uploaded the R file. I used 3 ARIMA models to train the data, used validation and chose the model with least error.
+• Uploaded the .ipynb file. I used deep learning method to train the data
 
 
- Make conclusion:
+
