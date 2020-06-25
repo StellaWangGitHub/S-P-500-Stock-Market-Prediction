@@ -20,7 +20,7 @@ May 25 :
 • Used Keras to create a recurrent neural network forecasting stock prices
 
 June 25 : 
-• Completed this project
+• Completed this project and will git the rest of files very soon
 • Uploaded the R file. I used 3 ARIMA models to train the data, used validation and chose the model with least error.
 • Uploaded the .ipynb file. I used deep learning method to train the data
 
