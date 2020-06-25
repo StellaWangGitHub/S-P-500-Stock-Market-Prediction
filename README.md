@@ -20,8 +20,8 @@ May 25 :
 • Used Keras to create a recurrent neural network forecasting stock prices
 
 June 25 : 
-• Complete this project
-• Uploaded the R file. I used ARIMA models to train the data, and the error is 
+• Completed this project
+• Uploaded the R file with the detailed S&P 500 Stock Market Analysis and Prediction report. I used ARIMA models to train the data, and the error is 
 • Uploaded the .ipynb file. I used deep learning method to train the data, and the error is 
 
 
