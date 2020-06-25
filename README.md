@@ -4,7 +4,7 @@ Personal Project till the end of June
 
 The main purpose of this project is to compare the performance between traditional time series analysis ARIMA models with modern deep learning using TensorFlow2
 
-This is a fun practice, I really enjoy it! I know I still have a long way to go before I can be a TensorFlow2 Skywalker:)
+This is a fun practice and I really enjoy it!  I know I still have a long way to go before I can be a TensorFlow2 Skywalker:)
 
 
 
@@ -26,3 +26,5 @@ June 25 :
 
 
  Make conclusion.
+
+
