@@ -1,8 +1,8 @@
 # S&P-500-Stock-Market-Prediction
 
-Personal Project till the end of June
+Personal Project till the end of June.
 
-The main purpose of this project is to compare the performance between traditional time series analysis ARIMA models with modern deep learning using TensorFlow2
+The main purpose of this project is to compare the performance between traditional time series analysis ARIMA models with modern deep learning using TensorFlow2.
 
 This is a fun practice, I really enjoy it! I know I still have a long way to go before I can be a TensorFlow2 Skywalker:)
 
@@ -21,8 +21,8 @@ May 25 :
 
 June 25 : 
 • Complete this project
-• Uploaded the R file. I used ARIMA models to train the data, and the error is .
-• Uploaded the .ipynb file. I used deep learning method to train the data, and the error is .
+• Uploaded the R file. I used ARIMA models to train the data, and the error is 
+• Uploaded the .ipynb file. I used deep learning method to train the data, and the error is 
 
 
- Make conclusion.
+ Make conclusion:
