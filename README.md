@@ -1,8 +1,11 @@
 # S&P-500-Stock-Market-Prediction
 
-Ongoing Personal Project till the end of this month
+Personal Project till the end of June
 
-Comparing the performance between traditional time series analysis ARIMA models with modern deep learning using TensorFlow2
+The main purpose of this project is to compare the performance between traditional time series analysis ARIMA models with modern deep learning using TensorFlow2
+
+This is a fun practice, I really enjoy it! I know I still have a long way to go before I can be a TensorFlow2 Skywalker:)
+
 
 
 May 24 : Need to understand the different performance with other python package like numpy. Why we use it? Think about reasons.
