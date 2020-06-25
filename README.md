@@ -2,7 +2,8 @@
 
 Ongoing Personal Project till the end of this month
 
-Comparing the performance between traditional time series analysis with modern deep learning.
+Comparing the performance between traditional time series analysis in R with modern deep learning using TensorFlow2
+
 
 May 24 : Need to understand the different performance with other python package like numpy. Why we use it? Think about reasons.
 
