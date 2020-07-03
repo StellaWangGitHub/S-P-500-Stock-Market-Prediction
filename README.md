@@ -24,5 +24,10 @@ June 25 :
 • Uploaded the R file. I used 3 ARIMA models to train the data, used validation and chose the model with least error.
 • Uploaded the .ipynb file. I used deep learning method to train the data
 
+July 02:
+• Modified the project, think twice about LSTM method
+• Start to learn PyTorch to train the dataset! It's going to be so much fun!
+
+
 
 
