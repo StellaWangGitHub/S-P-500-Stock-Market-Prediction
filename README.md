@@ -2,38 +2,18 @@
 
 Personal Project till the end of June.
 
-The main purpose of this project is to compare the performance between traditional time series analysis ARIMA models with modern deep learning using TensorFlow2.
+The data collected is the S&P 500 data from Specifically, the variables include Date, Opening Price, High Price of the Day, Low Price of the Day, Closing Price, Adjusted Closing Price, and Volume. The data was taken from Yahoo Finance.
+We are interested in exploring the properties of the volume of this dataset and determining if it has any time series properties. 
 
-This is a fun practice, I really enjoy it! I know I still have a long way to go before I can be a TensorFlow2 Skywalker:)
-
-
-
-May 24 : Need to understand the different performance with other python package like numpy. Why we use it? Think about reasons.
-
-https://www.tensorflow.org/guide/keras/rnn?fbclid=IwAR0kwn86ChVFIDLyZFQYp6EqCevgGzqmvTn3FdgR0RvTfJ_STmN2g0TFCxI
-
-https://www.tensorflow.org/tutorials/quickstart/beginner?fbclid=IwAR34Vwno1XP6_wWnsa0pfQFiyxBks7lhPjgr894LMk2jsDUlSjg4Bt5S3YU
-
-
-May 25 : 
-• Processed and visualized time series data
-• Used TensorFlow2 LSTM to create a recurrent neural network forecasting stock prices
 
 June 25 : 
-• Uploaded the R file. I used 3 ARIMA models to train the data, used validation and chose the model with least error.
-• Trained the data with LSTM, MSE is NOT that small as ARIMA, the reason: 1. dataset is not large enough 2. there maybe overfitting.
-
-July 19:
+• Uploaded the R file. I used ARIMA models to train the data, used validation and chose the model with least error to conduct the prediction.
 • Modified the project, extended the dataset from 1-year dataset to 5-year dataset (used larger dataset to train)
-
-
-expected July 24:
-• Upload the .ipynb file, and the R file.
 
 
 
 Future Step:
-• Start to learn PyTorch to train the dataset, It's going to be so much fun!
+• Start to learn PyTorch to train the dataset. It's probably going to be fun!
 
 
 
