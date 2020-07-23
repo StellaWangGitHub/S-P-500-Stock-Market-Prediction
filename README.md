@@ -29,7 +29,9 @@ After applying the first difference, we can see that there is non-seasonal and n
 The acf is significant at till lag=0, 1 comparing to at other lags, and all the other values of acf are very small. 
 At lag=1,2,3,4 the pacf has significant values.
 
+Use Box-Pierce test again, now the p-value is 0.2973 >0.05, there is no evidence that null hypothesis is false, so we do not reject null hypothesis. Thus the new series is stationary and it is from a white noise process.
 
+Try different ARMA models to find the least test error using training and test sets. 
 
 
 
