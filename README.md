@@ -17,16 +17,23 @@ https://www.tensorflow.org/tutorials/quickstart/beginner?fbclid=IwAR34Vwno1XP6_w
 
 May 25 : 
 • Processed and visualized time series data
-• Used Keras to create a recurrent neural network forecasting stock prices
+• Used TensorFlow2 LSTM to create a recurrent neural network forecasting stock prices
 
 June 25 : 
-• Completed this project and will git the rest of files very soon
 • Uploaded the R file. I used 3 ARIMA models to train the data, used validation and chose the model with least error.
-• Uploaded the .ipynb file. I used deep learning method to train the data
+• Trained the data with LSTM, MSE is NOT that small as ARIMA, the reason: 1. dataset is not large enough 2. there maybe overfitting.
 
-July 02:
-• Modified the project, think twice about LSTM method
-• Start to learn PyTorch to train the dataset! It's going to be so much fun!
+July 19:
+• Modified the project, extended the dataset from 1-year dataset to 5-year dataset (used larger dataset to train)
+
+
+expected July 24:
+• Upload the .ipynb file, and the R file.
+
+
+
+Future Step:
+• Start to learn PyTorch to train the dataset, It's going to be so much fun!
 
 
 
