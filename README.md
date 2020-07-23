@@ -13,6 +13,22 @@ We are interested in exploring the properties of the volume of this dataset and 
 
 
 
+Time Series Analysis:
+
+From the raw plot, we may say that there is some kind of cyclical effect and does not have a trend until near the end.
+
+Plotting the ACF against the lag for the daily volume, we see that the ACF tails off at a moderate rate and is significant from lag 0 to lag 37.
+
+After plotting the PACF against the lag for the daily volume, we see that the PACF is significant at lag 1, 2, and 3.
+
+Use Box-Pierce test to decide whether series appears to be realization from a white noise process. Since p-value is less than 2.2e-16 which is super small, then we may conclude the series doesn't appear to be a realization from a white noise process.
+
+Apply first difference operator to the time series that might reasonably be expected to remove the non-stationary component.
+After applying the first difference, we can see that there is non-seasonal and no trend.
+
+The acf is significant at till lag=0, 1 comparing to at other lags, and all the other values of acf are very small. 
+At lag=1,2,3,4 the pacf has significant values.
+
 
 
 
