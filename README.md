@@ -31,7 +31,21 @@ At lag=1,2,3,4 the pacf has significant values.
 
 Use Box-Pierce test again, now the p-value is 0.2973 >0.05, there is no evidence that null hypothesis is false, so we do not reject null hypothesis. Thus the new series is stationary and it is from a white noise process.
 
-Try different ARMA models to find the least test error using training and test sets. 
+Split the first-diff dataset into train set and test set. 
+
+Try different ARMA models to find the least test error using training and test sets. (according to ARMA_3 models.png)
+
+We use ARIMA(3,1,1), ARIMA(4,1,1), ARIMA(0,1,1)
+
+ARIMA(3,1,1): test error 4.623286e+18,  aic = 10423.67
+ARIMA(4,1,1): test error 4.706072e+18,  aic = 10422.01
+ARIMA(0,1,1): test error 4.731725e+18,  aic = 10461.58
+
+Since all the test error are pretty small, choose the smallest aic to 
+
+
+
+
 
 
 
