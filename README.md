@@ -41,7 +41,7 @@ ARIMA(3,1,1): test error 4.623286e+18,  aic = 10423.67
 ARIMA(4,1,1): test error 4.706072e+18,  aic = 10422.01
 ARIMA(0,1,1): test error 4.731725e+18,  aic = 10461.58
 
-Since all the test error are pretty small, choose the smallest aic to 
+Since all the test error are pretty small, choose the smallest aic.
 
 
 
