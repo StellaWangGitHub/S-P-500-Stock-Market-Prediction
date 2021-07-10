@@ -57,7 +57,7 @@ Future Step:
 
 Update:
 
-• Not a good idea to use LSTM on the dataset since the dataset is not large enough.
+• Not a good idea to use LSTM on the dataset since the dataset is not large enough and if we do so, it will have overfitting problem.
 
 • Use Keras, detected anomalies and code will be uploaded.
 
