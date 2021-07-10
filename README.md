@@ -50,8 +50,17 @@ Since all the test error are pretty small, choose the smallest aic.
 
 
 
-Future Step:
+Future Step: 
 • Start to learn PyTorch to train the dataset. It's probably going to be fun!
+
+
+
+Update:
+• Use Keras, detected anomalies and code will be uploaded.
+
+
+
+
 
 
 
