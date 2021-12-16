@@ -8,7 +8,7 @@ June 25 :
 
 Introduction:
 
-The data collected is the S&P 500 data from Specifically, the variables include Date, Opening Price, High Price of the Day, Low Price of the Day, Closing Price, Adjusted Closing Price, and Volume. The data was taken from Yahoo Finance.
+The data collected is the S&P 500 data from Yahoo Finance, the variables include Date, Opening Price, High Price of the Day, Low Price of the Day, Closing Price, Adjusted Closing Price, and Volume. The data was taken from Yahoo Finance.
 We are interested in exploring the properties of the volume of this dataset and determining if it has any time series properties. 
 
 
@@ -44,14 +44,6 @@ ARIMA(0,1,1): test error 4.731725e+18,  aic = 10461.58
 Since all the test error are pretty small, choose the smallest aic.
 
 
-
-
-
-
-
-
-Future Step: 
-• Start to learn PyTorch to train the dataset. It's probably going to be fun!
 
 
 
