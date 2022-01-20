@@ -2,7 +2,6 @@
 
 Personal Project ongoing
 
-June 25 : 
 • Uploaded the R file. I used ARIMA models to train the data, used validation and chose the model with least error to conduct the prediction.
 
 
